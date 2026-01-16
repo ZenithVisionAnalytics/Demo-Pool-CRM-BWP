@@ -1,0 +1,14 @@
+{
+    "total_current_listings_pool_probable": 0,
+    "total_removed_listings_pool_probable": 0,
+    "total_matched_addresses_current_listings": 0,
+    "total_matched_addresses_removed_listings": 0,
+    "total_addresses_in_db": 1492,
+    "proportion_addresses_listed_and_recently_sold": 0.0,
+    "bbox": {
+        "lat_min": 43.8,
+        "lat_max": 43.9,
+        "lon_min": -79.6,
+        "lon_max": -79.5
+    }
+}
